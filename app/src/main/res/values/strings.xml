@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Evaluación Práctica Android</string>
+    <string name="search_hint">Buscar película…</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="actors">Actores:</string>
+    <string name="country">País:</string>
+    <string name="director">Director:</string>
+    <string name="genre">Género:</string>
+    <string name="runtime">Duración:</string>
+    <string name="year">Año:</string>
 </resources>
